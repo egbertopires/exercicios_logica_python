@@ -11,3 +11,9 @@ Uma empresa concedeu um bônus de 20% para todos seus funcionários com mais de 
 Todos os outros que não se enquadram nesta categoria receberam uma bonificação de 10%, somente.
 Escreva um algoritmo que leia o salário do funcionário e seu tempo de empresa, e apresente a bonificação de cada
 funcionário na tela.
+
+# 3_exercício:
+(Adaptado de Menezes, p. 60).
+Um aluno, para passar de ano, precisa estar aprovado em todas as matérias que ele está cursando.
+Assuma que a média para aprovação é a partir de 7, e que o aluno cursa 3 matérias, somente.
+Escreva um algoritmo que leia a nota final do aluno em cada matérias, e informe na tela se ele passou de ano, ou não.
