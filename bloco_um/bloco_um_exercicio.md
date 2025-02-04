@@ -18,7 +18,14 @@ Um aluno, para passar de ano, precisa estar aprovado em todas as matérias que e
 Assuma que a média para aprovação é a partir de 7, e que o aluno cursa 3 matérias, somente.
 Escreva um algoritmo que leia a nota final do aluno em cada matérias, e informe na tela se ele passou de ano, ou não.
 
-# 4_exercíco:
+# 4_exercício:
 Escreva um algoritmo que lê um valor inteiro qualquer.
 Após, verifique se este valor está contido dentro dos seguintes intervalos: -100 < x < -1 e 1 < x < 100.
 Imprima na tela uma mensagem caso ele esteja em um dos intervalos.
+
+# 5_exercício:
+Escreva um algoritmo em Python em que o usuário escolhe se ele quer comprar maçãs, laranjas ou bananas.
+Deverá ser apresentado na tela um menu com a opção 1 para maçã, 2 para laranja e 3 para banana.
+Após escolhida a fruta, deve-se digitar quantas unidades se quer comprar.
+O algoritmo deve calcular o preço total a pagar do produto escolhido e mostrá-lo na tela.
+Considere que uma maçã custa R$ 2,30, uma laranja R$ 3,60 e uma banana 1,85. 
