@@ -17,3 +17,8 @@ funcionário na tela.
 Um aluno, para passar de ano, precisa estar aprovado em todas as matérias que ele está cursando.
 Assuma que a média para aprovação é a partir de 7, e que o aluno cursa 3 matérias, somente.
 Escreva um algoritmo que leia a nota final do aluno em cada matérias, e informe na tela se ele passou de ano, ou não.
+
+# 4_exercíco:
+Escreva um algoritmo que lê um valor inteiro qualquer.
+Após, verifique se este valor está contido dentro dos seguintes intervalos: -100 < x < -1 e 1 < x < 100.
+Imprima na tela uma mensagem caso ele esteja em um dos intervalos.
