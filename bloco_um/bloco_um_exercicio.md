@@ -36,4 +36,10 @@ Verifique se os valores formam um triângulo e classifique como:
 a) Equilátero (três lados iguais);
 b) Isósceles (dois lados iguais);
 c) Escaleno (três lados diferentes).
-Lembre-se de que, para formar um triângulo, nenhum dos lados pode ser igual a zero e um lado não pode ser maior do que a soma dos outros dois. 
+Lembre-se de que, para formar um triângulo, nenhum dos lados pode ser igual a zero e um lado não pode ser maior do que a soma dos outros dois.
+
+# 7_exercicio:
+(Adaptado de Menezes, p. 83)
+Escreva um algoritmo que leia dois valores numéricos e que pergunte ao usuário qual operação ele deseja realizar:
+adição (+), subtração (-), multiplicação (*) ou divisão (/).
+Exiba na tela o resultado da operação desejada.
