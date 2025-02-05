@@ -28,4 +28,12 @@ Escreva um algoritmo em Python em que o usuário escolhe se ele quer comprar ma�
 Deverá ser apresentado na tela um menu com a opção 1 para maçã, 2 para laranja e 3 para banana.
 Após escolhida a fruta, deve-se digitar quantas unidades se quer comprar.
 O algoritmo deve calcular o preço total a pagar do produto escolhido e mostrá-lo na tela.
-Considere que uma maçã custa R$ 2,30, uma laranja R$ 3,60 e uma banana 1,85. 
+Considere que uma maçã custa R$ 2,30, uma laranja R$ 3,60 e uma banana 1,85.
+
+# 6_exercicio:
+(Adaptado de Sandra Puga, p. 48) Faça um algoritmo que receba três valores, representando os lados de um triângulo fornecidos pelo usuário.
+Verifique se os valores formam um triângulo e classifique como:
+a) Equilátero (três lados iguais);
+b) Isósceles (dois lados iguais);
+c) Escaleno (três lados diferentes).
+Lembre-se de que, para formar um triângulo, nenhum dos lados pode ser igual a zero e um lado não pode ser maior do que a soma dos outros dois. 
