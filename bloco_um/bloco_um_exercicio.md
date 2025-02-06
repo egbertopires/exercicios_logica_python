@@ -43,3 +43,13 @@ Lembre-se de que, para formar um triângulo, nenhum dos lados pode ser igual a z
 Escreva um algoritmo que leia dois valores numéricos e que pergunte ao usuário qual operação ele deseja realizar:
 adição (+), subtração (-), multiplicação (*) ou divisão (/).
 Exiba na tela o resultado da operação desejada.
+
+# 8_exercício:
+Uma loja de departamentos está oferecendo diferentes formas de pagamento, conforme opções listadas a seguir.
+Faça um algoritmo que leia o valor total de uma compra e calcule o valor do pagamento final de acordo com a opção escolhida.
+Se a escolha for por pagamento parcelado, calcule também o valor de cada parcela.
+Ao final, apresente o valor total da compra e o valor das parcelas: 
+- • Pagamento à vista – conceder desconto de 5%;  
+- • Pagamento em 3x – o valor não sofre alterações;  
+- • Pagamento em 5x – acréscimo de 2%;  
+- • Pagamento em 10x – acréscimo 8%. 
