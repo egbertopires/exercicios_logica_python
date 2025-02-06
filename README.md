@@ -1,4 +1,4 @@
-/# Exercícios de Lógica com Python  
+# Exercícios de Lógica com Python  
 
 Este repositório acompanha minha evolução na lógica de programação com Python.  
 Os exercícios estão organizados em diretórios chamados **"blocos"**, representando meu progresso e aprendizado ao longo do tempo.  
