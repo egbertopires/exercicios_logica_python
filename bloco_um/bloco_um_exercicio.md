@@ -52,4 +52,7 @@ Ao final, apresente o valor total da compra e o valor das parcelas:
 - • Pagamento à vista – conceder desconto de 5%;  
 - • Pagamento em 3x – o valor não sofre alterações;  
 - • Pagamento em 5x – acréscimo de 2%;  
-- • Pagamento em 10x – acréscimo 8%. 
+- • Pagamento em 10x – acréscimo 8%.
+
+# 9_exercício:
+Crie um algoritmo que determine se um número é par ou ímpar.
