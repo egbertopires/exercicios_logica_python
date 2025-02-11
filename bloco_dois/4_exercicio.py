@@ -8,7 +8,6 @@ contador_pares = 0
 somatorio_pares = 0
 contador_impar = 0
 somatorio_impares = 0
-intervalo_numerico = 'Intervalo numérico: '
 
 for i in range(primeiro_numero, segundo_numero + 1):
     if i > 0:
