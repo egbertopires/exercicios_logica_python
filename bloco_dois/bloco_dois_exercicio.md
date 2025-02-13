@@ -27,3 +27,7 @@ Escreva um algoritmo que leia números inteiros via teclado. Somente valores pos
 Ao final da execução, informe a média dos valores digitados. 
 Realize a implementação com as instruções break e continue, e trabalhe com operações lógicas Truthy e Falsey.
 Não esqueça de empregar também operadores especiais de atribuição.
+
+# 6_exercício:
+Escreva um algoritmo que calcule e exiba a tabuada de um número escolhido e digitado pelo usuário.
+A tabuada deve ser calculada até um determinado número n, também fornecido pelo usuário.
