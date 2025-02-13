@@ -7,3 +7,7 @@ Os exercícios estão organizados em diretórios chamados **"blocos"**, represen
 Este bloco contém exercícios sobre os seguintes temas:  
 - **Algoritmos sequenciais**: uso de dados, variáveis e comandos de entrada e saída.  
 - **Estruturas de decisão**: utilização de condicionais para controle de fluxo.  
+
+# Bloco 2:
+Este bloco contém exercícios sobre os seguintes temas:
+- **Algoritmos iterativos**: estrutura de repetição
