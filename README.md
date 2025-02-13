@@ -9,5 +9,5 @@ Este bloco contém exercícios sobre os seguintes temas:
 - **Estruturas de decisão**: utilização de condicionais para controle de fluxo.  
 
 # Bloco 2:
-Este bloco contém exercícios sobre os seguintes temas:
-- **Algoritmos iterativos**: estrutura de repetição
+Este bloco contém exercícios sobre o seguinte tema:
+- **Algoritmos iterativos**: estruturas de repetição
