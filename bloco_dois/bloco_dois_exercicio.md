@@ -32,8 +32,16 @@ Não esqueça de empregar também operadores especiais de atribuição.
 Escreva um algoritmo que calcule e exiba a tabuada de um número escolhido e digitado pelo usuário.
 A tabuada deve ser calculada até um determinado número n, também fornecido pelo usuário.
 
-# 7_Exercício:
+# 7_exercício:
 Escreva um algoritmo que calcule a média dos números pares de 1 até 100 (1 e 100 inclusos).
 
-# 8_Exercício:
+# 8_exercício:
 Escreva um algoritmo mostre as tabuadas de 1 até 10.
+
+# 9_exercício:
+Escreva um algoritmo que repetidamente pergunte ao usuário qual sua idade e seu sexo (M ou F).
+Para cada resposta o programa deve responder imprimir a mensagem:
+“Boa noite, Senhor. Sua idade é <IDADE>” caso gênero masculino
+ou
+“Boa noite, Senhora. Sua idade é <IDADE>” caso gênero feminino.
+O programa deve encerrar quando o usuário digitar uma idade negativa.
