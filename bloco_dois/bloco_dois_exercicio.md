@@ -31,3 +31,9 @@ Não esqueça de empregar também operadores especiais de atribuição.
 # 6_exercício:
 Escreva um algoritmo que calcule e exiba a tabuada de um número escolhido e digitado pelo usuário.
 A tabuada deve ser calculada até um determinado número n, também fornecido pelo usuário.
+
+# 7_Exercício:
+Escreva um algoritmo que calcule a média dos números pares de 1 até 100 (1 e 100 inclusos).
+
+# 8_Exercício:
+Escreva um algoritmo mostre as tabuadas de 1 até 10.
