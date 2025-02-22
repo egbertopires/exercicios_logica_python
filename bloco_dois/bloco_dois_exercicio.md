@@ -45,3 +45,7 @@ Para cada resposta o programa deve responder imprimir a mensagem:
 ou
 “Boa noite, Senhora. Sua idade é <IDADE>” caso gênero feminino.
 O programa deve encerrar quando o usuário digitar uma idade negativa.
+
+# 10_exercício:
+Escreva um algoritmo que encontre todos os números primos de 2 até 99.
+Imprima na tela todos eles.
