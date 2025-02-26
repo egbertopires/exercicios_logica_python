@@ -26,11 +26,11 @@ def fatorial(numero = 0):
             resultado *= fator
         return f'{intervalo[:-2]}= {resultado}'
 
-def validaInteiro(quantidade = 0):
+def validaInteiro(quantidade = 0, texto1 = 'Digite o número inteiro'):
     tentativa = 0
     while tentativa < 3:
         try:
-            valor_numerico = int(input('Digite o número inteiro: '))
+            valor_numerico = int(input(f'{texto1}: '))
             if valor_numerico >= 0:
                 return valor_numerico
                 break
@@ -51,4 +51,16 @@ def validaInteiro(quantidade = 0):
         return 'não'
 
 ###################################################
+#funções do exercício três
 
+def somar_intervalo(numero_um,numero_dois):
+    somatorio = 0
+    for numero in range (numero_um, numero_dois + 1):
+        somatorio += numero
+    return somatorio
+
+def intervalo_numerico (numero_um,numero_dois):
+    intervalo = '{'
+    for numero in range (numero_um, numero_dois + 1):
+        intervalo += f'{numero},'
+    return f'{intervalo[:-2]}' + "}"

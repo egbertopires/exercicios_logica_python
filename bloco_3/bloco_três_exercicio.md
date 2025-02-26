@@ -10,3 +10,7 @@ Ainda, fatorial de 0! Sempre será 1.
 Considerando a breve explicação sobre fatorial, escreva uma função que calcule o fatorial de um número recebido 
 como parâmetro e retorne o seu resultado. 
 Faça uma validação dos dados por meio de uma outra função, permitindo que somente valores positivos sejam aceitos.
+
+# 3_exercicio:
+Faça uma função que recebe dois valores inteiros e positivos como parâmetro.
+Calcule a soma dos n valores inteiro existentes entre eles, inclusive estes números.
