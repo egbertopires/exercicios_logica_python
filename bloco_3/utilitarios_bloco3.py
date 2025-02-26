@@ -64,3 +64,13 @@ def intervalo_numerico (numero_um,numero_dois):
     for numero in range (numero_um, numero_dois + 1):
         intervalo += f'{numero},'
     return f'{intervalo[:-2]}' + "}"
+
+###################################################
+#Funções do exercício quatro
+def contar_string(texto,letra):
+    string = texto
+    contador = 0
+    for l in string:
+        if l == letra:
+            contador+=1
+    return contador

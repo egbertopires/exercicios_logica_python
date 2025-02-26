@@ -14,3 +14,6 @@ Faça uma validação dos dados por meio de uma outra função, permitindo que s
 # 3_exercicio:
 Faça uma função que recebe dois valores inteiros e positivos como parâmetro.
 Calcule a soma dos n valores inteiro existentes entre eles, inclusive estes números.
+
+# 4_exercício:
+Crie uma função que permita contar a quantidade de caracteres de uma string.
