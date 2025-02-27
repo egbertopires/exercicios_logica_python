@@ -17,3 +17,7 @@ Calcule a soma dos n valores inteiro existentes entre eles, inclusive estes núm
 
 # 4_exercício:
 Crie uma função que permita contar a quantidade de caracteres de uma string.
+
+# 5_exercício:
+Crie uma função que receba vários valores, assimque finalizar o programa gere a ordem crescente dessa lista.
+Só serão aceitos valores maiores que zero.

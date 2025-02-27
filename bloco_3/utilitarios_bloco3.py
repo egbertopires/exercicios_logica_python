@@ -37,7 +37,7 @@ def validaInteiro(quantidade = 0, texto1 = 'Digite o número inteiro'):
             else:
                 if tentativa < 2:
                     print(linha(quantidade))
-                    print('Apenas valores positivos')
+                    print('Por favor, insira apenas números positivos.')
         except:
             if tentativa < 2:
                 print(linha(quantidade))
