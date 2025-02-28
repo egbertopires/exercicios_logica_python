@@ -1,4 +1,4 @@
-from utilitarios_bloco3 import validaInteiro, linha
+from utilitarios_bloco3 import validaInteiro, linha, cabecalho
 
 print('Insira números inteiros e positivos e veja a ordem crescente e decrescente.\n'
       'Digite 0 para exibir o resultado e encerrar o programa.')
@@ -26,7 +26,7 @@ while True:
         for ordem_dois in referencia:
             texto_final_dois += f'{ordem_dois}, '
 
-        print(linha(50))
+        print(cabecalho('RESULTADO',50))
         print(f'Ordem crescente: {texto_final_um[:-2]}')
 
         print(f'\nOrdem decrescente: {texto_final_dois[:-2]}')
