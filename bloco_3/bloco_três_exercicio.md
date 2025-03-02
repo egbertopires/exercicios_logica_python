@@ -24,7 +24,7 @@ Só serão aceitos valores maiores que zero.
 
 # 6_exercicio:
 Crie um algoritmo que solicite ao usuário a entrada de vários números inteiros positivos e maiores que zero. 
-O programa deve permitir a entrada de números até que o usuário decida parar. 
+O programa deve permitir a entrada de dez números. 
 Em seguida, apresente:
 
 - Os números em ordem crescente e decrescente.
