@@ -21,3 +21,13 @@ Crie uma função que permita contar a quantidade de caracteres de uma string.
 # 5_exercício:
 Crie uma função que receba vários valores, assimque finalizar o programa gere a ordem crescente dessa lista.
 Só serão aceitos valores maiores que zero.
+
+# 6_exercicio:
+Crie um algoritmo que solicite ao usuário a entrada de vários números inteiros positivos e maiores que zero. 
+O programa deve permitir a entrada de números até que o usuário decida parar. 
+Em seguida, apresente:
+
+- Os números em ordem crescente e decrescente.
+- O maior e o menor número inserido.
+- Soma dos números inseridos.
+- A média dos valores.
